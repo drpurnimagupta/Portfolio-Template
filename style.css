@@ -1,0 +1,22 @@
+.bigImage{
+    height: 100vh;
+    background: url("https://www.kindpng.com/picc/m/45-457535_grocery-shopping-cart-png-high-quality-image-grocery.png");
+    background-size: contain;
+    position: relative;
+/*    */
+    .hero-text{
+        font-size: 4.5rem;
+
+    }
+.hero-desc{
+    font-size: 2rem;
+
+}
+.hero-div{
+    text-align: center;
+    color: white;
+
+}
+
+
+}
